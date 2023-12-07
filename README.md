@@ -10,6 +10,12 @@ Then to create and switch to a new branch, run the following:
 ```git checkout -b [branch-name-here]```
 
 
+Assignment:
+
+Use a for...in loop to iterate through the cityPopulations object and add up all the population values to find the total population.
+
+
+
 Once you finish the assignment you will do the normal
 
 ```git add .```
